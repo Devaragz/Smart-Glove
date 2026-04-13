@@ -2,7 +2,7 @@
 IoT smart glove simulation built with C++ and ESP32. Monitors thumb, index and middle finger flexes to send notifications.
 
 
-![Smart Glove Prototype](<img width="1647" height="951" alt="Screenshot 2026-04-14 014939" src="https://github.com/user-attachments/assets/1ebd1217-a472-443f-8ab5-c1279542b721" />
+![Smart Glove prototype](https://github.com/user-attachments/assets/90114d6d-258e-4439-bde9-e95978599a7d)
 )
 
 ## Features
