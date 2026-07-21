@@ -14,5 +14,5 @@ IoT smart glove simulation built with C++ and ESP32. Monitors thumb, index and m
 * **Hardware:** ESP32, Linear Potentiometers
 * **Software:** C++, Wokwi (Simulation), Blynk (IoT Cloud)
 
-## Code Structure
+## Code Structure 
 The main logic is contained in `sketch.ino`, handling sensor polling and Wi-Fi/Blynk communication.
