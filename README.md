@@ -6,7 +6,7 @@ IoT smart glove simulation built with C++ and ESP32. Monitors thumb, index and m
 )
 
 ## Features
-* Tracks real-time finger movements using 3 linear slide potentiometers (Thumb, Index, Middle).
+* Tracks real-time finger movements using 3 linear slide potentiometers (Thumb, Index, Middle). 
 * Processes analog signals via ESP32.
 * Triggers emergency network alerts using Blynk IoT integration.
 
